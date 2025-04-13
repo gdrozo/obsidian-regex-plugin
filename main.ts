@@ -6,6 +6,7 @@ import {
 	PluginSettingTab,
 	Setting,
 	Editor,
+	Notice,
 } from "obsidian";
 
 interface RegexReplacePair {
