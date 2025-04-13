@@ -4,7 +4,7 @@
 
 The **Search and Replace Plugin** enhances Obsidian's text manipulation capabilities by allowing users to perform advanced **search and replace operations** using **regular expressions**. This plugin is designed to streamline workflows by making complex text replacements effortless while maintaining a record of previous regex-replace pairs for easy reuse.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 Use **CMD+SHIFT+H** OR **CTRL+SHIFT+H** to open the plugin's interface.
 
