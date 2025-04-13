@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-regex-plugin",
+	"name": "Regex Search/Replace",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "The plugin provides advanced search and replace functionality in Obsidian, enabling users to leverage regular expressions for precise text manipulation. It features a convenient history of recently used regex and replacement pairs, making it easy to reuse patterns. Users can also manage the history by deleting unwanted entries, ensuring a streamlined and efficient workflow.",
+	"author": "German Rozo",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
